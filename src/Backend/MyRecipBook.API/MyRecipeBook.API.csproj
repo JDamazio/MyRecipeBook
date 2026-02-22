@@ -10,4 +10,10 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\MyRecipBook.Communication\MyRecipeBook.Communication.csproj" />
+    <ProjectReference Include="..\..\Shared\MyRecipBook.Exceptions\MyRecipeBook.Exceptions.csproj" />
+    <ProjectReference Include="..\MyRecipeBook.Application\MyRecipeBook.Application.csproj" />
+  </ItemGroup>
+
 </Project>

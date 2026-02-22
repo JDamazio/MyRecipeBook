@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyRecipBook.Domain\MyRecipeBook.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
