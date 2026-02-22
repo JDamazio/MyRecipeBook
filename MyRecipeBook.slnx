@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Backend/">
+    <Project Path="src/Backend/MyRecipBook.API/MyRecipBook.API.csproj" Id="de5a24fc-25b0-4099-bcc1-1c5afda88fac" />
+  </Folder>
+  <Folder Name="/src/Mobile/" />
+  <Folder Name="/src/Shared/" />
+  <Folder Name="/tests/" />
+</Solution>
